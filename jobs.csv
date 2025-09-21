@@ -1,0 +1,12 @@
+job_id,title,description,company_id,deadline,status
+10002001,Software Engineer (Backend),Software Engineer (Backend) – responsibilities include collaborating with cross-functional teams.,10000002,29/9/2025,OPEN
+10002002,Software Engineer (Frontend),Software Engineer (Frontend) – responsibilities include collaborating with cross-functional teams.,10000001,30/9/2025,OPEN
+10002003,Data Analyst,Data Analyst – responsibilities include collaborating with cross-functional teams.,10000002,1/10/2025,OPEN
+10002004,DevOps Engineer,DevOps Engineer – responsibilities include collaborating with cross-functional teams.,10000001,2/10/2025,OPEN
+10002005,QA Engineer,QA Engineer – responsibilities include collaborating with cross-functional teams.,10000002,3/10/2025,CLOSED
+10002006,Mobile Developer,Mobile Developer – responsibilities include collaborating with cross-functional teams.,10000001,4/10/2025,OPEN
+10002007,UI/UX Designer,UI/UX Designer – responsibilities include collaborating with cross-functional teams.,10000002,5/10/2025,OPEN
+10002008,IT Support,IT Support – responsibilities include collaborating with cross-functional teams.,10000001,6/10/2025,OPEN
+10002009,Product Manager,Product Manager – responsibilities include collaborating with cross-functional teams.,10000002,7/10/2025,OPEN
+10002010,Data Engineer,Data Engineer – responsibilities include collaborating with cross-functional teams.,10000001,8/10/2025,CLOSED
+10002011,Security Analyst,Security Analyst – responsibilities include collaborating with cross-functional teams.,10000002,9/10/2025,OPEN

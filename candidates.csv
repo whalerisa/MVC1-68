@@ -1,0 +1,12 @@
+candidate_id,first_name,last_name,email,role
+10003000,Anya,Wong,anya.wong@example.com,USER
+10003001,Ben,Smith,ben.smith@example.com,USER
+10003002,Chai,Prasert,chai.prasert@example.com,USER
+10003003,Dao,Nok,dao.nok@example.com,USER
+10003004,Ek,Kitti,ek.kitti@example.com,USER
+10003005,Fah,Chan,fah.chan@example.com,USER
+10003006,Gao,Manee,gao.manee@example.com,USER
+10003007,Hana,Sato,hana.sato@example.com,USER
+10003008,Ice,Kim,ice.kim@example.com,USER
+10003009,Jane,Doe,jane.doe@example.com,USER
+10003010,Admin,User,admin.user@example.com,ADMIN
